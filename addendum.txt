@@ -2,3 +2,8 @@ git commit -m "Version 1" --amend
 this line represents additional text, and is in fact additional text itself, followed by a new line.
 
 So, now that the file has been opened in VSCode, the GIT processing can be tracked as well.
+
+But I do not find within VSCode any clue as to where the depository resides.
+
+OK, now I see.  From the Views and Actions menu (...) in the SOURCE CONTROL pane,
+click on Source Control Repositories
