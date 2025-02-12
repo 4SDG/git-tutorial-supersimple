@@ -1,2 +1,4 @@
 git commit -m "Version 1" --amend
 this line represents additional text, and is in fact additional text itself, followed by a new line.
+
+So, now that the file has been opened in VSCode, the GIT processing can be tracked as well.
