@@ -7,3 +7,5 @@ But I do not find within VSCode any clue as to where the depository resides.
 
 OK, now I see.  From the Views and Actions menu (...) in the SOURCE CONTROL pane,
 click on Source Control Repositories
+
+Version 2.1
